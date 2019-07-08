@@ -10,6 +10,12 @@ Adaptations from multi-armed bandits strategies you can use:
 * Adaptive Greedy (see [1] and [5]) Note: Adaptive-Greedy algorithm shows a lot of promise!!
 * Explore-Then-Exploit (see [1])
 
+You might want ot read:
+https://towardsdatascience.com/contextual-bandits-and-reinforcement-learning-6bdfeaece72a
+
+And download this GitHub to add Contectual Ploicy Networks to your bandit:
+https://github.com/awjuliani/DeepRL-Agents
+
 
 ## Installation
 
