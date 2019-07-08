@@ -20,7 +20,7 @@ Adaptations from multi-armed bandits strategies you can use:
 You might want ot read:
 https://towardsdatascience.com/contextual-bandits-and-reinforcement-learning-6bdfeaece72a
 
-And download this GitHub to add Contectual Ploicy Networks to your bandit:
+And download this GitHub to add Contextual Policy Networks to your bandit, if you need it:
 https://github.com/awjuliani/DeepRL-Agents
 
 
