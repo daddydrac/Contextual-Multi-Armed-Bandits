@@ -7,6 +7,8 @@ Notable companies that use bandits:
 * StitchFix: https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/
 * Optimizely: https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
 * Scribd: https://medium.com/scribd-data-science-engineering/multi-armed-bandits-for-the-win-240b71bc3464
+* Microsoft: https://www.microsoft.com/en-us/research/project/explore-exploit-learning/
+* More Microsoft: https://www.microsoft.com/en-us/research/blog/new-perspectives-on-contextual-bandit/
 
 Adaptations from multi-armed bandits strategies you can use:
 * Upper-confidence Bound (see [1], [6] and [3])
