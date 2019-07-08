@@ -1,7 +1,12 @@
-# Contextual Bandits
+# Contextual Multi Armed Bandits
 
 
 This Python package contains implementations of methods from different papers dealing with the contextual bandit problem, as well as adaptations from typical multi-armed bandits strategies. It aims to provide an easy way to prototype many bandits for your use case.
+
+Notable companies that use bandits:
+* StitchFix: https://multithreaded.stitchfix.com/blog/2018/11/08/bandits/
+* Optimizely: https://www.optimizely.com/optimization-glossary/multi-armed-bandit/
+* Scribd: https://medium.com/scribd-data-science-engineering/multi-armed-bandits-for-the-win-240b71bc3464
 
 Adaptations from multi-armed bandits strategies you can use:
 * Upper-confidence Bound (see [1], [6] and [3])
