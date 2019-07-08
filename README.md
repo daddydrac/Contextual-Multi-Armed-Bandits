@@ -24,13 +24,6 @@ And download this GitHub to add Contectual Ploicy Networks to your bandit:
 https://github.com/awjuliani/DeepRL-Agents
 
 
-## Installation
-
-Package is available on PyPI, can be installed with 
-
-```pip install contextualbandits```
-
-
 ## Problem description
 
 Contextual bandits, also known as multi-armed bandits with covariates or associative reinforcement learning, is a problem similar to multi-armed bandits, but with the difference that side information or covariates are available at each iteration and can be used to select an arm, whose rewards are also dependent on the covariates.
